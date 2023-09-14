@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Jean Gomes, estagiário de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
+                    Boas vindas ao meu espaço pessoal! Eu sou Jean Gomes, estagiário de Fullstack da Dguests. Aqui compartilho vários conhecimentos, espero que gostem :)
                 </p>
             </div>
 
