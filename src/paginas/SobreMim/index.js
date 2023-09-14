@@ -21,18 +21,21 @@ export default function SobreMim() {
             />
 
             <p className={styles.paragrafo}>
-                Sou um profissional formado na área administrativa como técnico e tenho experiência nas áreas de produção e recepção,
-                onde pude aperfeiçoar minhas habilidades de comunicação e organização.
-                Atualmente além de estudante de Sistema da Informação na Universidade Anhembi Morumbi e pela plataforma da Alura,
-                também sou estagiário na empresa Dguests na função de Desenvolvedor Web "Front-End". Estou constantemente me atualizando e ampliando meus conhecimentos em React.js.
+                Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação, com experiência em todas as fases do ciclo de vida do
+                desenvolvimento de software, desde a concepção até o lançamento. Tenho expertise em criar aplicações escaláveis e seguras,
+                além de construir interfaces de usuário atraentes.
             </p>
             <p className={styles.paragrafo}>
-                Dentre minhas características destaco a facilidade com softwares e hardwares,
-                capacidade de adaptação, minha analítica em diferentes situações e o trabalho em equipe.
-                Possuo conhecimento em React.js, Node.js, HTML semântico, CSS/SCSS responsivo, JavaScript/Typescript, Git/GitHub.</p>
+                Ao longo da minha carreira, adquiri habilidades essenciais em comunicação, colaboração e resolução de problemas, o que me permite trabalhar
+                de forma eficiente em equipe. Estou constantemente em busca de aprendizado e busco me atualizar com as mais recentes tecnologias e abordagens
+                para aprimorar minhas habilidades e conhecimentos. Tenho grande entusiasmo em enfrentar projetos inovadores e desafiadores, onde posso aplicar minhas
+                experiências e habilidades para criar soluções excepcionais.</p>
             <p className={styles.paragrafo}>
-                Sempre busco novos desafios e oportunidades para ampliar meus conhecimentos,
-                a fim de me desenvolver cada vez mais e alcançar tanto o sucesso pessoal quanto profissional . </p>
+               Minhas habilidades técnicas incluem HTML, CSS, JavaScript, TypeScript, SQL, , AWS, Node, React, Styled-Components , SCSS, Bootstrap, etc...
+                Contatos: 
+                jgomesfonseca21@gmail.com 
+                +55 (11) 97803-5152. 
+            </p>
         </PostModelo>
     )
 }
