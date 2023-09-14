@@ -31,9 +31,9 @@ export default function SobreMim() {
                 para aprimorar minhas habilidades e conhecimentos. Tenho grande entusiasmo em enfrentar projetos inovadores e desafiadores, onde posso aplicar minhas
                 experiências e habilidades para criar soluções excepcionais.</p>
             <p className={styles.paragrafo}>
-               Minhas habilidades técnicas incluem HTML, CSS, JavaScript, TypeScript, SQL, , AWS, Node, React, Styled-Components , SCSS, Bootstrap, etc...
-                Contatos: 
-                jgomesfonseca21@gmail.com 
+               Minhas habilidades técnicas incluem HTML, CSS, JavaScript, TypeScript, SQL, , AWS, Node, React, Styled-Components , SCSS, Bootstrap, etc... </br>
+                Contatos: </br>
+                jgomesfonseca21@gmail.com </br>
                 +55 (11) 97803-5152. 
             </p>
         </PostModelo>
