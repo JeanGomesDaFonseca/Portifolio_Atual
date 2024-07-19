@@ -14,4 +14,12 @@
         "titulo": "Organo",
         "texto": "Neste link você poderá ver o projeto funcionando ==> [Organo](https://organo-ten-pi.vercel.app/)"
     },  
+        {
+        "id": 4,
+        "titulo": "Dguests",
+        "texto": "Neste link você poderá ver o projeto funcionando(feito para a empresa) ==> [Organo](https://dguests.com.br/cardapio-digital)"
+    },  
+
+
+    
 ]
