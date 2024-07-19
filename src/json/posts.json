@@ -11,13 +11,7 @@
     },
     {
         "id": 3,
-        "titulo": "Churrascometrô",
-        "texto": "Neste link você poderá ver o projeto funcionando ==> [Churrascometrô](https://churrascometro-zeta.vercel.app/)  \n\n "
-    },
-    {
-        "id": 4,
         "titulo": "Organo",
         "texto": "Neste link você poderá ver o projeto funcionando ==> [Organo](https://organo-ten-pi.vercel.app/)"
-    }
-    
+    },  
 ]
